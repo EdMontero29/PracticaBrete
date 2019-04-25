@@ -1,0 +1,42 @@
+body
+{
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.articulo1
+{
+    border: 1px solid gray;
+    border-radius: 10px;
+}
+h2 strong
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: royalblue;
+
+}
+h1
+{
+    font-size: 45px;
+    font-family: 'Yesteryear', cursive;
+    margin-top: 1%;
+    color: black;
+}
+header
+{
+   
+    border: 1px solid gray;
+    background-color: royalblue;  
+}
+@media only screen and (max-width: 600px) {
+
+    .guitar
+    {
+        width: 100%;
+    }
+    header
+    {
+        width: 100%;
+
+    }
+
+}
